@@ -1,7 +1,7 @@
 # trackula
 
-** Rastreo de migraciones por la web. Proyecto seleccionado taller
-Visualizar17 **
+*Rastreo de migraciones por la web. Proyecto seleccionado taller
+Visualizar17*
 
 (English below)
 
