@@ -1,65 +1,62 @@
-# trackula
+# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
 
-*Rastreo de migraciones por la web. Proyecto seleccionado taller
-Visualizar17*
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-(English below)
+## Preview
 
-Trackula consiste en una forma de poder visualizar cómo distintos
-entes pueden rastrear tus migraciones por la web, de forma
-inadvertida, y visualizar las relaciones entre ellos, y cuánta
-información de ti pueden estar disponiendo.
+[![Grayscale Preview](https://startbootstrap.com/assets/img/templates/grayscale.jpg)](https://blackrockdigital.github.io/startbootstrap-grayscale/)
 
-Se plantea como una infografía interactiva en forma de web sobre el
-historial individual, personalizada con los datos del navegador de
-cada uno, de forma que uno pueda ver, en su realidad, qué información
-está decidiendo otorgar a terceros al navegar por Internet. El
-carácter individual la convierte en una experiencia muy personal,
-siendo el impacto producido diferente en cada caso, y relacionado con
-la experiencia de cada uno con la web.
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-grayscale/)**
 
---------------
+## Status
 
-Trackula consists in a tool capable of visualizing how different
-entities can inadvertently track your migrations on the web and feel
-the relationships between these entities, and how much aggregated
-information on you may be available to them from your usage patterns.
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-grayscale/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-grayscale.svg)](https://www.npmjs.com/package/startbootstrap-grayscale)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-grayscale)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-grayscale?type=dev)
 
-Initially proposed as an interactive infographic website, taking
-information from the browser history, so that the user can see which
-information they are giving to third-parties when browsing places on
-the Internet. Wildly different impacts are to be expected as browsing
-the Internet is a unique experience for everyone, as is the
-information anyone gives away."
+## Download and Installation
 
--------------
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/grayscale/)
+* Install via npm: `npm i startbootstrap-grayscale`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-grayscale.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-grayscale)
 
-El proyecto se plantea inicialmente como una visualización del
-historial del navegador, en forma de infografía interactiva,
-enriquecido utilizando información disponible en las propias páginas
-web visitadas (qué rastreadores contienen, y qué información se ha
-proporcionado a estas webs).
+## Usage
 
-De este modo, sin generar información adicional a la que el usuario ya
-está proporcionando a cada página, y desde luego, sin exportar esta
-información fuera de sus ordenadores, podemos ofrecer una
-visualización al respecto, utilizando no solo la dimensión del tiempo
-que suele ser la principal en un historial de un navegador, sino
-utilizando los datos y los rastreadores comunes compartidos, y de este
-modo, haciendo menos sutiles las migraciones de datos y la
-polinización cruzada que ocurre de información entre distintos sitios
-web, aparentemente, no relacionados.
+### Basic Usage
 
-La idea es generar una extensión para el navegador utilizando
-WebExtensions (y ser compatible con Firefox y Chrome), que recabe
-información de las URLs visitadas y que nos añada una página al
-navegador para poder ver el historial enriquecido con la información
-disponible que tenemos de los rastreadores utilizados en cada sitio
-web."
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-# Participantes
+### Advanced Usage
 
-Son bienvenidxs diseñadores, programadores, geeks, personas preocupadas con la privacidad
+After installation, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-designers, software developers, geeks, privacy-concerned individuals"
+## Bugs and Issues
 
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+
+## Custom Builds
+
+You can hire Start Bootstrap to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[custom design services page](https://startbootstrap.com/bootstrap-design-services/)**.
+
+## About
+
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
