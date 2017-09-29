@@ -188,14 +188,25 @@ a {
   border-radius: 0; }
 
 .btn-default {
-  color: #42DCA3;
-  border: 1px solid #42DCA3;
+  color: #BE3F2C;
+  border: 1px solid #BE3F2C;
   background-color: transparent; }
   .btn-default:focus, .btn-default:hover {
-    color: black;
-    border: 1px solid #42DCA3;
+    color: #f8f8f8;
+    border: 1px solid #f8f8f8;
     outline: none;
-    background-color: #42DCA3; }
+    background-color: #BE3F2C; }
+
+.btn-primary {
+    color: #f8f8f8;
+    border: 3px solid #f8f8f8;
+    outline: none;
+    background-color: #BE3F2C; }
+  .btn-primary:focus, .btn-primary:hover {
+    color: #f8f8f8;
+    border: 3px solid #f8f8f8;
+    outline: none;
+    background-color: #953122; }
 
 ul.banner-social-buttons {
   margin-top: 0; }
@@ -243,9 +254,11 @@ body {
 
 #download-btn {
     position: fixed;
-    right: 5%;
-    top: 70%;
-    z-index: 9999;
+    right: 3%;
+    top: 85%;
+    z-index: 2;
+    text-align: center;
+    padding: 20px;
 }
 
 video {
