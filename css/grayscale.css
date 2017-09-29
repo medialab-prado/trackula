@@ -283,3 +283,8 @@ video {
     width: auto;
     height: auto;
 }
+
+.imagotipo {
+    padding-right: 10px;
+    width: 50%;
+}
