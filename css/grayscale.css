@@ -51,10 +51,25 @@ a {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  color: #42DCA3; }
-  a:focus, a:hover {
+  color: #42DCA3;
+}
+a:focus, a:hover {
     text-decoration: none;
-    color: #1d9b6c; }
+    color: #1d9b6c;
+}
+
+.anti-tracking-tools h5 > img {
+    height: 150px;
+    width: auto;
+}
+
+.anti-tracking-tools h5 {
+    margin-bottom: 10px;
+}
+
+.anti-tracking-tools a {
+    color: #ffffff; /* These links dont seem like links but... */
+}
 
 #mainNav {
   font-family: 'Oswald', sans-serif;
@@ -287,4 +302,10 @@ video {
 .imagotipo {
     padding-right: 10px;
     width: 50%;
+}
+
+.tool-icon {
+    padding-top: 40px;
+    padding-bottom: 10px;
+    width: 80px;
 }
