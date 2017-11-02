@@ -1,0 +1,53 @@
+#+TITLE: Trackula
+#+AUTHOR: The Trackula Contributors
+#+EMAIL: info@trackula.org
+
+* Trackula
+  Trackula es una visualización interactiva de tu rastro en internet,
+  y de qué sitios web te rastrean, a través de los contenidos que
+  visitas cada día.
+
+** Web
+
+   La web que aloja este repositorio se encuentra disponible en
+   https://trackula.org con más información, incluyendo un vídeo y una
+   infografía con mayor carácter explicativo de lo que puede ofrecer
+   este documento.
+
+** Plugin
+   Existe un plugin para Firefox disponible en AMO en
+   https://addons.mozilla.org/en-US/firefox/addon/trackula/versions/beta
+
+   El repositorio que aloja este plugin se encuentra en estos momentos
+   en https://github.com/ssaavedra/trackula-we como fork del
+   repositorio de Mozilla Lightbeam (WebExtension).
+
+*** Metáfora
+
+    Para explicar cómo funcionan las interconexiones en la web
+    utilizamos como metáfora las setas, ya que el micelio de las mismas
+    (con lo que absorben nutrientes de la tierra) está unido bajo
+    tierra e interconecta a los hongos.
+
+    Las setas son las páginas web que visitas conscientemente al
+    navegar, y los puntos en los que se interconectan con otros son
+    recursos de terceros que se encuentran incrustados tanto en una
+    como en otra web.
+
+* Colaboradores
+
+** Autores principales
+   - Sofía Prosper
+   - Santiago Saavedra
+   - Guidiana Landívar
+   - Alba Martín
+   - Pablo Martín
+   - Carla Tortul
+
+** Con la colaboración de
+   - Adolfo Antón
+   - Julie Freeman
+   - Sergio Galán
+   - Jesús Navarro
+   - Samuel Granados
+   - Hanna Williams
